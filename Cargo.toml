@@ -1,0 +1,8 @@
+[package]
+name = "sierpinski"
+version = "0.1.0"
+authors = ["smt923 <smtea923@gmail.com>"]
+
+[dependencies]
+image = "0.15.0"
+rand = "0.3.16"
